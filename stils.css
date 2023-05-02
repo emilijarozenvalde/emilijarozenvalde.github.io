@@ -1,6 +1,6 @@
 body{
-    background-color:#75C9B7;
-    color: #16123F;;
+    background-color:#4d8089;
+    color: #16123F;
 }
 h1{
     text-align: center;
@@ -10,25 +10,24 @@ p{
     font-size: 30px; 
     text-align: center;
 }
-a {
-    color: paleturquoise;
-  }
+
+
+
 /* unvisited link */
 a:link {
-    color: paleturquoise;
+    color: #16123F;
   }
 /* visited link */
 a:visited {
-    color: blue;
+    color: #16123F;
   }
   
   /* mouse over link */
   a:hover {
-    color: black;
+    color: #0c4c74;
   }
   
   /* selected link */
   a:active {
-    color: orange;
+    color: #0c4c74;
   }
-  
