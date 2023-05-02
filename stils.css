@@ -1,0 +1,34 @@
+body{
+    background-color:#75C9B7;
+    color: #16123F;;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    font-size: 30px; 
+    text-align: center;
+}
+a {
+    color: paleturquoise;
+  }
+/* unvisited link */
+a:link {
+    color: paleturquoise;
+  }
+/* visited link */
+a:visited {
+    color: blue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: black;
+  }
+  
+  /* selected link */
+  a:active {
+    color: orange;
+  }
+  
