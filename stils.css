@@ -5,9 +5,6 @@ body{
 h1{
     text-align: center;
     font-size: 40px;
-    outline-style:ridge;
-    outline-width: 5px;
-    outline-color: #4d8089;
 
 }
 p{
@@ -37,5 +34,6 @@ a:visited {
   }
 
   img{
-    width: 1500px;
+    width: 1100px;
+    
   }
