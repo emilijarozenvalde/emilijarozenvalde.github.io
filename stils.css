@@ -1,11 +1,11 @@
 body{
-     background-color:#4d8089;
+  background-color: #4d8089;
     color: #16123F;
     
 }
 h1{
     text-align: center;
-    font-size: 40px;
+    font-size: 50px;
 
 }
 p{
@@ -29,5 +29,13 @@ a:visited {
     color: #0c4c74;
   }
 img{
-  width: 1000px;
+  width: 800px;
+  
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }

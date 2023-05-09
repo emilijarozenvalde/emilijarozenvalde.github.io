@@ -5,3 +5,9 @@ img{
     width: 400px;
     text-align: center;
 }
+.center {
+    display: flexbox;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }

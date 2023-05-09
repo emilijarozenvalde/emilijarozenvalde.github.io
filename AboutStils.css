@@ -10,3 +10,11 @@ img{
     width: 400px;
     
 }
+.topright{
+    position: absolute;
+    top:200px;
+    right: 90px;
+    font-size: 18px;
+  }
+
+  
