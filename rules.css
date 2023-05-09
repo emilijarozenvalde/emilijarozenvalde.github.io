@@ -5,12 +5,13 @@ body{
 }
 h1{
     text-align: center;
-    font-size: 35px;
+    font-size: 40px;
 }
 h2{
     text-align: center;
+    font-size: 27px;
 }
 p {
-    margin: 20px;
-    font-size: 10px;
+    font-size: 25px;
   }
+

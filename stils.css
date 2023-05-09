@@ -1,6 +1,7 @@
 body{
-    background-color:#4d8089;
+     background-color:#4d8089;
     color: #16123F;
+    
 }
 h1{
     text-align: center;
@@ -14,25 +15,19 @@ p{
 
 
 
-/* unvisited link */
+
 a:link {
     color: #16123F;
   }
-/* visited link */
 a:visited {
     color: #16123F;
   }
-  
-  /* mouse over link */
   a:hover {
     color: #0c4c74;
   }
-  
-  /* selected link */
   a:active {
     color: #0c4c74;
   }
-
 img{
   width: 1000px;
 }
