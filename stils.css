@@ -12,7 +12,9 @@ p{
     text-align: center;
 }
 
-
+img{
+  text-align: center;
+}
 
 /* unvisited link */
 a:link {
