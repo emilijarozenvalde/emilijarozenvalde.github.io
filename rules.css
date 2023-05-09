@@ -1,7 +1,7 @@
 body{
         background-color:#4d8089 ;
         color: #16123F;
-        margin: 50px;
+        
 }
 h1{
     text-align: center;
@@ -12,4 +12,5 @@ h2{
 }
 p {
     text-indent: -5px;
+    margin: 20px;
   }
